@@ -23,3 +23,5 @@ Usage and Contributions:
 
 
 The GitHub repository provides the necessary code, documentation, and datasets required to run the prediction models and explore the project further. Users can follow the instructions provided to preprocess the data, train the models, and make predictions. Contributions to the project are welcome, including improvements to the prediction algorithms, feature engineering techniques, and enhancements to the dataset.
+
+Happy predicting first innings scores in cricket matches!
