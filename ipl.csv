@@ -7368,1476 +7368,244 @@ mid,date,venue,bat_team,bowl_team,batsman,bowler,runs,wickets,overs,runs_last_5,
 370,10-05-2013,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,V Kohli,S Kaul,160,3,19,68,0,76,32,183
 370,10-05-2013,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Daredevils,V Kohli,UT Yadav,183,4,20,84,1,99,32,183
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AJ Finch,MG Johnson,1,0,1,1,0,1,0,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,RV Uthappa,AN Ahmed,2,0,1.1,2,0,2,0,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AJ Finch,AN Ahmed,4,0,1.2,4,0,2,2,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AJ Finch,AN Ahmed,4,0,1.3,4,0,2,2,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AJ Finch,AN Ahmed,8,0,1.4,8,0,6,2,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AJ Finch,AN Ahmed,8,0,1.5,8,0,6,2,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AJ Finch,AN Ahmed,12,0,2,12,0,10,2,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,RV Uthappa,MG Johnson,13,0,2.1,13,0,10,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AJ Finch,MG Johnson,13,0,2.2,13,0,10,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AJ Finch,MG Johnson,13,0,2.3,13,0,10,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AJ Finch,MG Johnson,13,0,2.4,13,0,10,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AJ Finch,MG Johnson,13,1,2.5,13,1,10,3,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,MG Johnson,14,1,3,14,1,3,1,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,AN Ahmed,14,1,3.1,14,1,3,1,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,AN Ahmed,15,1,3.2,15,1,3,2,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,RV Uthappa,AN Ahmed,15,1,3.3,15,1,3,2,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,RV Uthappa,AN Ahmed,17,1,3.4,17,1,5,2,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,RV Uthappa,AN Ahmed,18,1,3.5,18,1,6,2,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,AN Ahmed,18,1,4,18,1,6,2,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,RV Uthappa,SL Malinga,19,1,4.1,19,1,7,2,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,SL Malinga,20,1,4.2,20,1,7,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,RV Uthappa,SL Malinga,21,1,4.2,21,1,7,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,RV Uthappa,SL Malinga,25,1,4.3,25,1,11,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,RV Uthappa,SL Malinga,25,2,4.4,25,2,11,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,SL Malinga,29,2,4.5,29,2,4,3,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,SL Malinga,29,2,5,29,2,4,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,AN Ahmed,29,2,5.1,29,2,4,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,AN Ahmed,31,2,5.2,31,2,5,4,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,AN Ahmed,31,2,5.3,30,2,5,4,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,AN Ahmed,31,2,5.4,30,2,5,4,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,AN Ahmed,35,2,5.5,34,2,9,4,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,AN Ahmed,36,2,6,34,2,10,4,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,PP Ojha,36,2,6.1,32,2,10,4,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,PP Ojha,37,2,6.2,33,2,11,4,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,PP Ojha,38,2,6.3,30,2,11,5,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,PP Ojha,44,2,6.4,36,2,17,5,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,PP Ojha,45,2,6.5,33,2,18,5,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,PP Ojha,46,2,7,33,2,18,6,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,47,2,7.1,34,2,18,7,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,Harbhajan Singh,48,2,7.2,35,2,18,7,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,48,2,7.3,35,2,18,7,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,48,2,7.4,35,1,18,7,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,49,2,7.5,35,1,18,8,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,Harbhajan Singh,50,2,8,36,1,19,8,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,PP Ojha,52,2,8.1,37,1,21,8,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,PP Ojha,53,2,8.2,38,1,22,8,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,PP Ojha,53,2,8.3,36,1,22,8,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,PP Ojha,53,2,8.4,35,1,22,8,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,PP Ojha,54,2,8.5,36,1,22,9,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,PP Ojha,54,2,9,35,1,22,9,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,54,2,9.1,34,1,22,9,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,55,2,9.2,34,1,22,10,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,Harbhajan Singh,56,2,9.3,31,1,23,10,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,57,2,9.4,32,0,23,11,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,Harbhajan Singh,58,2,9.5,29,0,24,11,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,58,2,10,29,0,24,11,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,PP Ojha,59,2,10.1,30,0,25,11,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,PP Ojha,65,2,10.2,34,0,25,17,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,PP Ojha,71,2,10.3,40,0,25,23,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,PP Ojha,71,2,10.4,40,0,25,23,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,PP Ojha,72,2,10.5,37,0,25,24,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,PP Ojha,72,2,11,36,0,25,24,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,74,2,11.1,38,0,26,25,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,75,2,11.2,38,0,27,25,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,Harbhajan Singh,76,2,11.3,38,0,27,26,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,77,2,11.4,33,0,28,26,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,Harbhajan Singh,78,2,11.5,33,0,28,27,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,78,2,12,32,0,28,27,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,SL Malinga,79,2,12.1,32,0,28,28,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,SL Malinga,81,2,12.2,33,0,30,28,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,SL Malinga,82,2,12.3,34,0,31,28,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,SL Malinga,83,2,12.4,35,0,31,29,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,SL Malinga,84,2,12.5,35,0,32,29,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,MK Pandey,SL Malinga,84,3,13,34,1,32,29,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,85,3,13.1,33,1,33,0,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AD Mathews,Harbhajan Singh,85,3,13.2,32,1,33,0,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AD Mathews,Harbhajan Singh,85,4,13.3,32,2,33,0,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,85,4,13.4,32,2,33,0,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Yuvraj Singh,Harbhajan Singh,85,5,13.5,31,3,33,0,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,Harbhajan Singh,85,5,14,31,3,0,0,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AM Nayar,MG Johnson,86,5,14.1,32,3,1,0,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,MG Johnson,86,5,14.2,31,3,1,0,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,MG Johnson,86,5,14.3,30,3,1,0,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,MG Johnson,86,5,14.4,29,3,1,0,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,MG Johnson,87,5,14.5,29,3,1,1,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AM Nayar,MG Johnson,88,5,15,30,3,2,1,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AM Nayar,GJ Maxwell,89,5,15.1,30,3,3,1,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,GJ Maxwell,91,5,15.2,26,3,3,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,GJ Maxwell,91,5,15.3,20,3,3,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,GJ Maxwell,92,5,15.4,21,3,4,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AM Nayar,GJ Maxwell,93,5,15.5,21,3,4,3,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,GJ Maxwell,94,5,16,22,3,5,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,SL Malinga,95,5,16.1,21,3,6,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AM Nayar,SL Malinga,96,5,16.2,21,3,6,4,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,SL Malinga,96,5,16.3,20,3,6,4,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,SL Malinga,97,5,16.4,20,3,7,4,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AM Nayar,SL Malinga,98,5,16.5,20,3,7,5,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,SL Malinga,99,5,17,21,3,8,5,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,MG Johnson,99,5,17.1,20,3,8,5,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,MG Johnson,99,5,17.2,18,3,8,5,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,KW Richardson,MG Johnson,99,6,17.3,17,4,8,5,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AM Nayar,MG Johnson,99,6,17.4,16,4,5,0,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AM Nayar,MG Johnson,100,6,17.5,16,4,6,0,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Parvez Rasool,MG Johnson,101,6,18,17,3,6,1,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Parvez Rasool,SL Malinga,102,6,18.1,17,3,6,1,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AM Nayar,SL Malinga,103,6,18.2,18,3,7,1,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Parvez Rasool,SL Malinga,104,6,18.3,19,2,7,2,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AM Nayar,SL Malinga,106,6,18.4,21,2,9,2,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AM Nayar,SL Malinga,106,6,18.5,21,1,9,2,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AM Nayar,SL Malinga,107,6,19,22,1,10,2,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AM Nayar,AN Ahmed,108,6,19.1,22,1,11,2,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Parvez Rasool,AN Ahmed,109,6,19.2,23,1,11,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,AM Nayar,AN Ahmed,109,7,19.3,23,2,11,3,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Parvez Rasool,AN Ahmed,110,7,19.4,24,2,4,0,112
-371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,B Kumar,AN Ahmed,112,7,19.5,25,2,4,2,112
 371,11-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,B Kumar,AN Ahmed,112,8,20,24,3,4,2,112
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Kumar,0,0,0.1,0,0,0,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Kumar,1,0,0.2,1,0,1,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,P Kumar,2,0,0.3,2,0,1,1,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Kumar,3,0,0.4,3,0,2,1,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,P Kumar,4,0,0.5,4,0,2,2,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Kumar,4,0,1,4,0,2,2,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,P Awana,4,0,1.1,4,0,2,2,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,P Awana,8,0,1.2,8,0,6,2,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,P Awana,9,0,1.3,9,0,7,2,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Awana,15,0,1.4,15,0,8,7,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Awana,15,0,1.5,15,0,8,7,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Awana,15,0,2,15,0,8,7,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,P Kumar,15,0,2.1,15,0,8,7,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,P Kumar,17,0,2.2,17,0,9,8,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,P Kumar,18,0,2.2,18,0,9,8,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,P Kumar,18,0,2.3,18,0,9,8,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,P Kumar,22,0,2.4,22,0,13,8,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,P Kumar,22,0,2.5,22,0,13,8,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,P Kumar,23,0,3,23,0,14,8,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,P Awana,23,0,3.1,23,0,14,8,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,P Awana,24,0,3.2,24,0,15,8,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Awana,24,0,3.3,24,0,15,8,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Awana,24,0,3.4,24,0,15,8,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Awana,24,0,3.5,24,0,15,8,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Awana,28,0,4,28,0,15,12,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,S Dhawan,Harmeet Singh,28,1,4.1,28,1,15,12,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,GH Vihari,Harmeet Singh,28,1,4.2,28,1,12,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,GH Vihari,Harmeet Singh,28,1,4.3,28,1,12,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,GH Vihari,Harmeet Singh,28,1,4.4,28,1,12,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,GH Vihari,Harmeet Singh,29,1,4.5,29,1,12,1,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Harmeet Singh,29,1,5,29,1,12,1,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,GH Vihari,Sandeep Sharma,33,1,5.1,32,1,12,5,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,GH Vihari,Sandeep Sharma,33,1,5.2,31,1,12,5,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,GH Vihari,Sandeep Sharma,33,2,5.3,30,2,12,5,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,CL White,Sandeep Sharma,37,2,5.4,33,2,12,4,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,CL White,Sandeep Sharma,37,2,5.5,33,2,12,4,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,CL White,Sandeep Sharma,37,2,6,33,2,12,4,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Harmeet Singh,38,2,6.1,30,2,13,4,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,CL White,Harmeet Singh,39,2,6.2,30,2,13,5,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Harmeet Singh,43,2,6.3,28,2,17,5,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Harmeet Singh,44,2,6.4,29,2,18,5,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,CL White,Harmeet Singh,48,2,6.5,33,2,18,9,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,CL White,Harmeet Singh,48,2,7,33,2,18,9,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Sandeep Sharma,49,2,7.1,32,2,18,9,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,CL White,Sandeep Sharma,50,2,7.2,32,2,18,10,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Sandeep Sharma,50,2,7.3,32,2,18,10,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Sandeep Sharma,51,2,7.4,29,2,19,10,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,CL White,Sandeep Sharma,51,3,7.5,29,3,19,10,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,BB Samantray,Sandeep Sharma,51,4,8,28,4,19,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,PP Chawla,52,4,8.1,29,4,20,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,DJG Sammy,PP Chawla,52,4,8.2,28,4,20,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,DJG Sammy,PP Chawla,52,4,8.3,28,4,20,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,DJG Sammy,PP Chawla,52,5,8.4,28,5,20,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,PP Chawla,52,5,8.5,28,5,20,0,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,PP Chawla,52,5,9,24,5,20,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Sandeep Sharma,53,5,9.1,25,4,21,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,Sandeep Sharma,53,5,9.2,25,4,21,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,Sandeep Sharma,53,5,9.3,25,4,21,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,Sandeep Sharma,54,5,9.4,26,4,21,1,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Sandeep Sharma,54,5,9.5,25,4,21,1,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Sandeep Sharma,56,5,10,27,4,23,1,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,PP Chawla,59,5,10.1,26,4,23,4,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,PP Chawla,59,5,10.2,26,4,23,4,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,PP Chawla,60,5,10.3,27,3,24,4,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,PP Chawla,61,5,10.4,24,3,24,5,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,PP Chawla,63,5,10.5,26,3,26,5,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,PP Chawla,64,5,11,27,3,27,5,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Sandeep Sharma,65,5,11.1,27,3,28,5,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,Sandeep Sharma,66,5,11.2,27,3,28,6,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Sandeep Sharma,70,5,11.3,27,3,32,6,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Sandeep Sharma,70,5,11.4,26,3,32,6,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Sandeep Sharma,70,5,11.5,22,3,32,6,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Sandeep Sharma,71,5,12,23,3,33,6,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,PP Chawla,73,5,12.1,24,3,35,6,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,PP Chawla,74,5,12.2,24,3,36,6,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,PP Chawla,75,5,12.3,25,3,36,7,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,PP Chawla,75,5,12.4,24,3,36,7,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,PP Chawla,76,5,12.5,25,2,37,7,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,PP Chawla,76,5,13,25,1,37,7,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Harmeet Singh,77,5,13.1,25,1,38,7,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,Harmeet Singh,77,5,13.2,25,1,38,7,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,Harmeet Singh,78,5,13.3,26,1,38,8,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Harmeet Singh,79,5,13.4,27,0,39,8,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,Harmeet Singh,85,5,13.5,33,0,39,14,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,Harmeet Singh,89,5,14,37,0,39,18,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Awana,90,5,14.1,37,0,40,18,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,P Awana,94,5,14.2,41,0,40,22,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,P Awana,94,5,14.3,41,0,40,22,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,P Awana,94,5,14.4,40,0,40,22,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,KV Sharma,P Awana,94,6,14.5,40,1,40,22,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Awana,98,6,15,42,1,44,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,PP Chawla,98,6,15.1,39,1,44,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,PP Chawla,98,6,15.2,39,1,44,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,PP Chawla,99,6,15.3,39,1,44,1,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,PP Chawla,101,6,15.4,40,1,46,1,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,PP Chawla,102,6,15.5,39,1,47,1,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,PP Chawla,104,6,16,40,1,47,3,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Awana,105,6,16.1,40,1,48,3,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,P Awana,106,6,16.2,40,1,48,4,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Awana,107,6,16.3,37,1,49,4,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,P Awana,107,6,16.4,37,1,49,4,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,P Awana,113,6,16.5,43,1,49,10,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,P Awana,114,6,17,43,1,49,11,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,P Kumar,120,6,17.1,47,1,49,17,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,P Kumar,120,6,17.2,46,1,49,17,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,P Kumar,124,6,17.3,49,1,49,21,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,P Kumar,125,6,17.4,50,1,49,22,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,P Kumar,126,6,17.5,50,1,50,22,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,P Kumar,128,6,18,52,1,50,24,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Harmeet Singh,134,6,18.1,57,1,56,24,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Harmeet Singh,138,6,18.2,61,1,60,24,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,PA Patel,Harmeet Singh,139,6,18.3,61,1,61,24,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,Harmeet Singh,141,6,18.4,62,1,61,26,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,Harmeet Singh,141,6,18.5,56,1,61,26,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,Harmeet Singh,142,7,19,53,2,61,27,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,DW Steyn,P Kumar,142,7,19.1,52,2,27,0,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,DW Steyn,P Kumar,143,7,19.2,49,2,27,1,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,P Kumar,147,7,19.3,53,2,31,1,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,P Kumar,148,7,19.4,54,2,32,1,150
-372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,DW Steyn,P Kumar,149,7,19.5,55,1,32,1,150
 372,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,NLTC Perera,P Kumar,150,7,20,52,1,32,1,150
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CA Pujara,SMSM Senanayake,0,0,0.1,0,0,0,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CA Pujara,SMSM Senanayake,0,0,0.2,0,0,0,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CA Pujara,SMSM Senanayake,0,0,0.3,0,0,0,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CA Pujara,SMSM Senanayake,1,0,0.4,1,0,1,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,2,0,0.5,2,0,1,1,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CA Pujara,SMSM Senanayake,3,0,1,3,0,2,1,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CA Pujara,L Balaji,3,0,1.1,3,0,2,1,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CA Pujara,L Balaji,3,0,1.2,3,0,2,1,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CA Pujara,L Balaji,4,0,1.3,4,0,3,1,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,L Balaji,4,0,1.4,4,0,3,1,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,L Balaji,5,0,1.5,5,0,3,2,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CA Pujara,L Balaji,5,0,2,5,0,3,2,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,5,0,2.1,5,0,3,2,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,9,0,2.2,9,0,6,3,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,9,0,2.3,9,0,6,3,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,9,0,2.4,9,0,6,3,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,10,0,2.5,10,0,7,3,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CA Pujara,SMSM Senanayake,11,0,3,11,0,7,4,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CA Pujara,L Balaji,11,0,3.1,11,0,7,4,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CA Pujara,L Balaji,11,0,3.2,11,0,7,4,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CA Pujara,L Balaji,12,0,3.3,12,0,7,5,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,L Balaji,12,0,3.4,12,0,7,5,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,L Balaji,12,0,3.5,12,0,7,5,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,L Balaji,13,0,3.5,13,0,7,5,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,L Balaji,14,0,4,14,0,8,5,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,14,0,4.1,14,0,8,5,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,15,0,4.2,15,0,9,5,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CA Pujara,SMSM Senanayake,15,1,4.3,15,1,9,5,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,16,1,4.4,16,1,10,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,SMSM Senanayake,16,1,4.5,16,1,10,0,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,SMSM Senanayake,16,1,5,16,1,10,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SP Narine,16,1,5.1,16,1,10,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SP Narine,17,1,5.2,17,1,11,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,SP Narine,17,1,5.3,16,1,11,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,SP Narine,21,1,5.4,19,1,11,4,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,SP Narine,21,1,5.5,18,1,11,4,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,SP Narine,22,1,6,19,1,11,5,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,JH Kallis,23,1,6.1,20,1,11,6,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,JH Kallis,23,1,6.2,19,1,11,6,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,JH Kallis,24,1,6.3,20,1,12,6,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,JH Kallis,25,1,6.4,20,1,12,7,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,JH Kallis,26,1,6.5,21,1,13,7,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,JH Kallis,28,1,7,23,1,13,9,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,RN ten Doeschate,29,1,7.1,20,1,14,9,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,RN ten Doeschate,33,1,7.2,24,1,14,13,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,RN ten Doeschate,34,1,7.3,25,1,14,14,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,RN ten Doeschate,34,1,7.4,24,1,14,14,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,RN ten Doeschate,40,1,7.5,29,1,20,14,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,RN ten Doeschate,42,1,8,31,1,22,14,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,JH Kallis,43,1,8.1,32,1,22,15,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,JH Kallis,44,1,8.2,32,1,23,15,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,JH Kallis,46,1,8.3,34,1,23,17,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,V Kohli,JH Kallis,46,2,8.4,34,2,23,17,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,JH Kallis,47,2,8.5,34,2,23,1,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,JH Kallis,47,2,9,33,2,23,1,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,YK Pathan,48,2,9.1,34,2,23,2,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,YK Pathan,49,2,9.2,34,2,23,2,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,YK Pathan,50,2,9.3,35,1,23,3,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,YK Pathan,51,2,9.4,35,1,24,3,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,YK Pathan,52,2,9.5,36,1,24,4,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,YK Pathan,54,2,10,38,1,26,4,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,JH Kallis,54,2,10.1,38,1,26,4,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,JH Kallis,54,2,10.2,37,1,26,4,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,JH Kallis,55,2,10.3,38,1,26,5,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,JH Kallis,56,2,10.4,35,1,27,5,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,JH Kallis,56,2,10.5,35,1,27,5,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,JH Kallis,57,2,11,35,1,27,6,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,R Bhatia,58,2,11.1,35,1,27,7,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,R Bhatia,59,2,11.2,36,1,28,7,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,R Bhatia,60,2,11.3,36,1,28,8,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,R Bhatia,61,2,11.4,36,1,29,8,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,R Bhatia,62,2,11.5,36,1,29,9,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,R Bhatia,63,2,12,35,1,30,9,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,64,2,12.1,35,1,31,9,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,SMSM Senanayake,65,2,12.2,32,1,31,10,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,66,2,12.3,32,1,32,10,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,SMSM Senanayake,67,2,12.4,33,1,32,11,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SMSM Senanayake,68,2,12.5,28,1,33,11,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,SMSM Senanayake,70,2,13,28,1,33,13,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle,SP Narine,70,3,13.1,27,2,33,13,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,MC Henriques,SP Narine,70,3,13.2,26,2,13,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,MC Henriques,SP Narine,72,3,13.3,26,2,13,2,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,MC Henriques,SP Narine,74,3,13.4,28,1,13,4,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,MC Henriques,SP Narine,75,3,13.5,28,1,13,5,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,SP Narine,76,3,14,29,1,14,5,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,R Bhatia,77,3,14.1,29,1,15,5,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,MC Henriques,R Bhatia,78,3,14.2,29,1,15,6,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,R Bhatia,79,3,14.3,29,1,16,6,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,MC Henriques,R Bhatia,79,3,14.4,28,1,16,6,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,MC Henriques,R Bhatia,80,3,14.5,28,1,16,7,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,R Bhatia,84,3,15,30,1,20,7,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,MC Henriques,L Balaji,86,3,15.1,32,1,20,9,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,MC Henriques,L Balaji,87,3,15.2,33,1,20,10,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,L Balaji,89,3,15.3,34,1,22,10,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,L Balaji,95,3,15.4,39,1,28,10,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,L Balaji,95,4,15.5,39,2,28,10,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,SS Tiwary,L Balaji,96,4,16,39,2,10,1,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,SS Tiwary,SP Narine,96,4,16.1,38,2,10,1,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,SS Tiwary,SP Narine,96,5,16.2,37,3,10,1,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Vinay Kumar,SP Narine,97,5,16.3,37,3,10,1,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,MC Henriques,SP Narine,98,5,16.4,37,3,11,1,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Vinay Kumar,SP Narine,98,5,16.5,36,3,11,1,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Vinay Kumar,SP Narine,102,5,17,39,3,11,5,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,MC Henriques,JH Kallis,102,6,17.1,38,4,11,5,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Vinay Kumar,JH Kallis,102,6,17.2,37,4,5,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Vinay Kumar,JH Kallis,104,6,17.3,38,4,7,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Vinay Kumar,JH Kallis,105,6,17.4,38,4,8,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Rampaul,JH Kallis,105,6,17.5,37,4,8,0,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Rampaul,JH Kallis,105,6,18,35,4,8,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Vinay Kumar,SP Narine,106,6,18.1,36,3,9,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Rampaul,SP Narine,106,7,18.2,36,4,9,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,A Mithun,SP Narine,108,7,18.3,36,4,9,2,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,A Mithun,SP Narine,108,8,18.4,34,5,9,2,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Vinay Kumar,SP Narine,108,8,18.5,33,5,9,0,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Vinay Kumar,SP Narine,109,8,19,33,5,10,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Vinay Kumar,L Balaji,111,8,19.1,34,5,12,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Vinay Kumar,L Balaji,111,8,19.2,33,5,12,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Vinay Kumar,L Balaji,112,8,19.3,33,5,12,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,M Kartik,L Balaji,112,9,19.4,33,6,12,0,115
-373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,JD Unadkat,L Balaji,113,9,19.5,33,6,12,1,115
 373,12-05-2013,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,R Vinay Kumar,L Balaji,115,9,20,31,6,14,1,115
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,VS Malik,2,0,0.1,2,0,2,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,VS Malik,2,0,0.2,2,0,2,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,VS Malik,2,0,0.3,2,0,2,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,VS Malik,3,0,0.4,3,0,3,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,VS Malik,3,0,0.5,3,0,3,0,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,VS Malik,3,0,1,3,0,3,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,JP Faulkner,4,0,1.1,4,0,4,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,JP Faulkner,4,0,1.2,4,0,4,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,JP Faulkner,4,0,1.3,4,0,4,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,JP Faulkner,5,0,1.4,5,0,4,1,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,JP Faulkner,6,0,1.5,6,0,5,1,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,JP Faulkner,7,0,2,7,0,5,1,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,VS Malik,7,0,2.1,7,0,5,1,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,VS Malik,11,0,2.2,11,0,5,5,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,VS Malik,12,0,2.3,12,0,6,5,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,VS Malik,12,0,2.4,12,0,6,5,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,VS Malik,12,0,2.5,12,0,6,5,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,VS Malik,16,0,3,16,0,9,6,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SR Watson,16,0,3.1,16,0,9,6,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SR Watson,19,0,3.2,19,0,9,9,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,SR Watson,19,0,3.3,19,0,9,9,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,SR Watson,21,0,3.4,21,0,9,9,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,SR Watson,22,0,3.5,22,0,10,9,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SR Watson,22,0,4,22,0,10,9,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,JP Faulkner,22,0,4.1,22,0,10,9,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,JP Faulkner,22,0,4.2,22,0,10,9,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,JP Faulkner,22,0,4.3,22,0,10,9,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,JP Faulkner,22,0,4.4,22,0,10,9,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,JP Faulkner,26,0,4.5,26,0,14,9,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,JP Faulkner,26,0,5,26,0,14,9,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SR Watson,26,0,5.1,24,0,14,9,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SR Watson,30,0,5.2,28,0,14,13,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SR Watson,34,0,5.3,32,0,17,14,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SR Watson,34,0,5.4,31,0,17,14,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SR Watson,36,0,5.5,33,0,19,14,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SR Watson,37,0,5.5,34,0,19,14,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SR Watson,37,0,6,33,0,19,14,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,VS Malik,38,0,6.1,34,0,19,15,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,VS Malik,39,0,6.2,35,0,20,15,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,VS Malik,39,0,6.3,34,0,20,15,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,VS Malik,39,0,6.4,33,0,20,15,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,VS Malik,43,0,6.5,36,0,20,19,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,VS Malik,44,0,7,37,0,20,20,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,SK Trivedi,44,0,7.1,33,0,20,20,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,SK Trivedi,48,0,7.2,36,0,24,20,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,SK Trivedi,49,0,7.3,37,0,25,20,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SK Trivedi,53,0,7.4,41,0,25,24,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SK Trivedi,55,0,7.5,39,0,26,25,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SK Trivedi,59,0,8,43,0,30,25,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,KK Cooper,60,0,8.1,41,0,30,26,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,KK Cooper,61,0,8.2,42,0,31,26,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,KK Cooper,62,0,8.3,41,0,31,27,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,KK Cooper,64,0,8.4,42,0,33,27,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,KK Cooper,65,0,8.5,43,0,34,27,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,KK Cooper,66,0,9,44,0,34,28,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,STR Binny,70,0,9.1,48,0,34,32,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,STR Binny,72,0,9.2,50,0,34,34,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,STR Binny,73,0,9.3,51,0,34,34,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,STR Binny,73,0,9.4,47,0,34,34,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,STR Binny,74,0,9.5,48,0,35,34,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,STR Binny,75,0,10,49,0,35,35,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,SK Trivedi,75,0,10.1,45,0,35,35,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,SK Trivedi,76,0,10.1,42,0,35,35,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,SK Trivedi,80,0,10.2,46,0,39,35,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,SK Trivedi,80,0,10.3,44,0,39,35,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,SK Trivedi,81,0,10.4,44,0,40,35,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SK Trivedi,82,0,10.5,45,0,40,36,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,SK Trivedi,82,0,11,44,0,40,36,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,STR Binny,83,0,11.1,44,0,40,37,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,STR Binny,83,0,11.2,44,0,40,37,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MEK Hussey,STR Binny,83,1,11.3,44,1,40,37,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,SK Raina,STR Binny,84,1,11.4,41,1,37,1,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,STR Binny,84,1,11.5,40,1,37,1,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,STR Binny,86,1,12,42,1,39,1,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,SK Raina,KK Cooper,86,2,12.1,38,2,39,1,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,KK Cooper,87,2,12.2,38,2,40,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MS Dhoni,KK Cooper,89,2,12.3,36,2,40,2,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MS Dhoni,KK Cooper,89,2,12.4,34,2,40,2,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,MS Dhoni,KK Cooper,89,3,12.5,30,3,40,2,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,KK Cooper,89,3,13,29,3,40,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,STR Binny,89,3,13.1,28,3,40,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,STR Binny,89,3,13.2,27,3,40,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,STR Binny,90,3,13.3,26,3,41,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,STR Binny,91,3,13.3,26,3,41,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,STR Binny,93,3,13.4,27,3,41,2,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,STR Binny,94,3,13.5,24,3,41,3,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,STR Binny,94,3,14,22,3,41,3,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,SR Watson,96,3,14.1,23,3,41,5,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,SR Watson,97,3,14.2,24,3,41,6,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SR Watson,97,3,14.3,23,3,41,6,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SR Watson,99,3,14.4,24,3,43,6,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SR Watson,99,3,14.5,24,3,43,6,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,SR Watson,100,3,15,24,3,44,6,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,JP Faulkner,102,3,15.1,22,3,46,6,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,JP Faulkner,102,3,15.2,22,3,46,6,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,JP Faulkner,103,3,15.3,22,3,47,6,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,JP Faulkner,104,3,15.4,22,3,47,7,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,JP Faulkner,104,3,15.5,22,3,47,7,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,JP Faulkner,105,3,16,22,3,48,7,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,KK Cooper,105,3,16.1,22,3,48,7,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,KK Cooper,106,3,16.2,23,2,49,7,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,KK Cooper,107,3,16.3,23,2,49,8,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,KK Cooper,107,3,16.4,23,2,49,8,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,KK Cooper,111,3,16.5,25,2,53,8,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,M Vijay,KK Cooper,113,3,17,27,1,55,8,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,SR Watson,113,3,17.1,26,1,55,8,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,SR Watson,113,4,17.2,24,2,55,8,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,DJ Bravo,SR Watson,114,4,17.3,25,2,8,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,SR Watson,114,4,17.4,25,1,8,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,SR Watson,116,4,17.5,27,1,10,0,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,SR Watson,116,4,18,27,1,10,0,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,DJ Bravo,KK Cooper,118,4,18.1,29,1,10,2,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,DJ Bravo,KK Cooper,122,4,18.2,32,1,10,6,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,DJ Bravo,KK Cooper,126,4,18.3,35,1,10,10,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,DJ Bravo,KK Cooper,126,4,18.4,33,1,10,10,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,DJ Bravo,KK Cooper,130,4,18.5,36,1,14,10,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,DJ Bravo,KK Cooper,130,4,19,36,1,14,10,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,JP Faulkner,131,4,19.1,35,1,14,11,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,DJ Bravo,JP Faulkner,133,4,19.2,36,1,16,11,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,DJ Bravo,JP Faulkner,135,4,19.3,38,1,18,11,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,DJ Bravo,JP Faulkner,136,4,19.4,37,1,19,11,141
-374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,RA Jadeja,JP Faulkner,137,4,19.5,38,1,19,12,141
 374,12-05-2013,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,DJ Bravo,JP Faulkner,141,4,20,41,1,23,12,141
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DPMD Jayawardene,P Kumar,0,0,0.1,0,0,0,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DPMD Jayawardene,P Kumar,0,0,0.2,0,0,0,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DPMD Jayawardene,P Kumar,4,0,0.3,4,0,4,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DPMD Jayawardene,P Kumar,4,1,0.4,4,1,4,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,RE van der Merwe,P Kumar,5,1,0.5,5,1,1,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,P Kumar,6,1,0.5,6,1,1,0,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,P Kumar,6,1,1,6,1,1,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,RE van der Merwe,P Awana,7,1,1.1,7,1,2,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,P Awana,8,1,1.2,8,1,2,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,RE van der Merwe,P Awana,8,1,1.3,8,1,2,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,RE van der Merwe,P Awana,9,1,1.4,9,1,3,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,P Awana,10,1,1.5,10,1,3,2,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,RE van der Merwe,P Awana,10,1,2,10,1,3,2,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,P Kumar,14,1,2.1,14,1,6,3,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,P Kumar,14,1,2.2,14,1,6,3,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,P Kumar,15,1,2.3,15,1,7,3,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,RE van der Merwe,P Kumar,19,1,2.4,19,1,7,7,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,RE van der Merwe,P Kumar,20,1,2.5,20,1,8,7,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,P Kumar,22,1,3,22,1,9,8,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,RE van der Merwe,P Awana,22,1,3.1,22,1,9,8,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,RE van der Merwe,P Awana,22,2,3.2,22,2,9,8,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,P Awana,22,2,3.3,22,2,9,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,P Awana,22,2,3.4,22,2,9,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,P Awana,22,2,3.5,22,2,9,0,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,P Awana,22,2,4,22,2,9,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,Harmeet Singh,22,2,4.1,22,2,9,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,Harmeet Singh,22,2,4.2,22,2,9,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,Harmeet Singh,22,2,4.3,22,2,9,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,Harmeet Singh,26,2,4.4,26,2,13,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,Harmeet Singh,32,2,4.5,32,2,19,0,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,Harmeet Singh,32,2,5,32,2,19,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,P Awana,33,2,5.1,33,2,19,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,P Awana,35,2,5.2,31,2,21,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,P Awana,35,2,5.3,31,1,21,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,P Awana,35,2,5.4,30,1,21,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,P Awana,36,2,5.5,30,1,22,1,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,P Awana,40,2,6,34,1,22,5,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,Harmeet Singh,41,2,6.1,34,1,22,5,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,Harmeet Singh,42,2,6.2,34,1,22,6,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,Harmeet Singh,43,2,6.3,35,1,23,6,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,Harmeet Singh,44,2,6.4,35,1,23,7,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,Harmeet Singh,44,2,6.5,34,1,23,7,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,Harmeet Singh,45,2,6.5,35,1,23,7,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,V Sehwag,Harmeet Singh,45,3,7,31,2,23,7,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,DJ Hussey,46,3,7.1,32,2,8,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,DJ Hussey,47,3,7.2,32,2,8,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,DJ Hussey,48,3,7.3,29,2,9,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,DJ Hussey,48,3,7.4,28,2,9,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,DJ Hussey,49,3,7.5,27,2,9,2,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,DJ Hussey,50,3,8,28,2,10,2,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,PP Chawla,50,3,8.1,28,1,10,2,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,PP Chawla,51,3,8.2,29,1,11,2,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,PP Chawla,51,3,8.3,29,1,11,2,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,PP Chawla,51,3,8.4,29,1,11,2,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,PP Chawla,51,3,8.5,29,1,11,2,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,PP Chawla,51,3,9,29,1,11,2,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,DJ Hussey,51,3,9.1,29,1,11,2,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,DJ Hussey,52,3,9.2,30,1,12,2,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,DJ Hussey,53,3,9.3,27,1,12,3,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,DJ Hussey,53,3,9.4,21,1,12,3,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,DJ Hussey,54,3,9.5,22,1,13,3,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,DJ Hussey,54,3,10,21,1,13,3,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,PP Chawla,60,3,10.1,25,1,19,3,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,PP Chawla,60,3,10.2,25,1,19,3,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,PP Chawla,61,3,10.3,26,1,20,3,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,PP Chawla,65,3,10.4,29,1,20,7,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,PP Chawla,66,3,10.5,26,1,20,8,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,PP Chawla,70,3,11,29,1,24,8,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,DJ Hussey,71,3,11.1,29,1,24,9,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,DJ Hussey,72,3,11.2,29,1,25,9,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,DJ Hussey,73,3,11.3,29,1,25,10,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,DJ Hussey,73,3,11.4,29,1,25,10,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,DJ Hussey,74,3,11.5,29,1,26,10,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,DJ Hussey,75,3,12,30,0,26,11,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,BA Bhatt,75,3,12.1,29,0,26,11,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,BA Bhatt,75,3,12.2,28,0,26,11,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,BA Bhatt,76,3,12.3,28,0,26,12,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,BA Bhatt,80,3,12.4,32,0,30,12,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,BA Bhatt,81,3,12.5,32,0,31,12,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,BA Bhatt,82,3,13,32,0,31,13,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,Harmeet Singh,83,3,13.1,33,0,31,14,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,Harmeet Singh,84,3,13.2,33,0,32,14,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,MC Juneja,Harmeet Singh,84,4,13.3,33,1,32,14,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,KM Jadhav,Harmeet Singh,85,4,13.3,34,1,32,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,KM Jadhav,Harmeet Singh,85,4,13.4,34,1,32,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,KM Jadhav,Harmeet Singh,85,5,13.5,34,2,32,0,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,Harmeet Singh,86,5,14,35,2,33,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,BA Bhatt,87,5,14.1,35,2,34,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,J Botha,BA Bhatt,88,5,14.2,35,2,34,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,BA Bhatt,89,5,14.3,36,2,35,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,J Botha,BA Bhatt,89,6,14.4,35,3,35,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,BA Bhatt,90,6,14.5,36,3,35,1,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,BA Bhatt,90,6,15,30,3,35,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,DJ Hussey,90,6,15.1,30,3,35,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,DJ Hussey,90,6,15.2,29,3,35,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,DJ Hussey,90,6,15.3,25,3,35,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,DJ Hussey,90,6,15.4,24,3,35,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,DJ Hussey,91,6,15.5,21,3,35,2,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,DJ Hussey,93,6,16,22,3,35,2,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,Harmeet Singh,95,6,16.1,23,3,35,4,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,Harmeet Singh,97,6,16.2,24,3,35,6,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,Harmeet Singh,97,6,16.3,24,3,35,6,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,Harmeet Singh,98,6,16.4,24,3,35,7,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,Harmeet Singh,98,6,16.5,23,3,35,7,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,Harmeet Singh,99,6,17,24,3,36,7,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,P Kumar,103,6,17.1,28,3,40,7,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,DA Warner,P Kumar,103,7,17.2,27,4,40,7,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,AB Agarkar,P Kumar,103,7,17.3,23,4,7,0,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,AB Agarkar,P Kumar,104,7,17.4,23,4,7,1,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,P Kumar,105,7,17.5,23,4,8,1,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,AB Agarkar,P Kumar,106,7,18,23,4,8,2,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,AB Agarkar,P Awana,108,7,18.1,24,4,8,4,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,AB Agarkar,P Awana,109,7,18.2,25,3,8,5,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,P Awana,110,7,18.3,25,3,9,5,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,AB Agarkar,P Awana,111,7,18.4,26,3,9,6,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,P Awana,111,7,18.5,26,2,9,6,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,P Awana,115,7,19,29,2,13,6,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,AB Agarkar,P Kumar,116,7,19.1,29,2,13,7,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,P Kumar,117,7,19.2,29,2,13,7,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,AB Agarkar,P Kumar,118,7,19.3,29,2,13,8,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,P Kumar,119,7,19.4,30,1,14,8,120
-375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,AB Agarkar,P Kumar,120,7,19.5,30,1,14,9,120
 375,23-04-2013,Feroz Shah Kotla,Delhi Daredevils,Kings XI Punjab,IK Pathan,P Kumar,120,7,20,30,1,14,9,120
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,MG Johnson,4,0,0.1,4,0,4,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,MG Johnson,6,0,0.2,6,0,6,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,MG Johnson,6,0,0.3,6,0,6,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,MG Johnson,7,0,0.3,7,0,6,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,MG Johnson,11,0,0.4,11,0,10,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,MG Johnson,15,0,0.5,15,0,14,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,MG Johnson,19,0,1,19,0,18,0,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,DS Kulkarni,20,0,1,20,0,18,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,DS Kulkarni,20,0,1.1,20,0,18,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,DS Kulkarni,20,0,1.2,20,0,18,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,DS Kulkarni,26,0,1.3,26,0,18,6,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,DS Kulkarni,27,0,1.4,27,0,18,7,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,DS Kulkarni,31,0,1.5,31,0,22,7,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,DS Kulkarni,31,0,2,31,0,22,7,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,Harbhajan Singh,32,0,2.1,32,0,22,8,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,Harbhajan Singh,34,0,2.2,34,0,24,8,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,Harbhajan Singh,35,0,2.3,35,0,25,8,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,Harbhajan Singh,36,0,2.3,36,0,25,8,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,Harbhajan Singh,36,0,2.4,36,0,25,8,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,Harbhajan Singh,36,0,2.5,36,0,25,8,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,Harbhajan Singh,36,0,3,36,0,25,8,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,SL Malinga,36,0,3.1,36,0,25,8,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,SL Malinga,37,0,3.2,37,0,26,8,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,SL Malinga,38,0,3.3,38,0,26,9,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,SL Malinga,38,0,3.4,38,0,26,9,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,PA Patel,SL Malinga,38,1,3.5,38,1,26,9,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,SL Malinga,39,1,4,39,1,10,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,MG Johnson,39,1,4.1,39,1,10,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,MG Johnson,40,1,4.2,40,1,11,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,MG Johnson,40,1,4.3,40,1,11,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,MG Johnson,40,1,4.4,36,1,11,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,MG Johnson,40,1,4.5,34,1,11,0,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,MG Johnson,44,1,5,38,1,11,4,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,Harbhajan Singh,44,1,5.1,37,1,11,4,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,Harbhajan Singh,45,1,5.1,34,1,11,4,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,Harbhajan Singh,45,1,5.2,30,1,11,4,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,Harbhajan Singh,47,1,5.3,28,1,13,4,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,Harbhajan Singh,47,1,5.4,27,1,13,4,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,Harbhajan Singh,51,1,5.5,31,1,17,4,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,Harbhajan Singh,52,1,6,32,1,18,4,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,PP Ojha,53,1,6.1,27,1,19,4,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,PP Ojha,54,1,6.2,27,1,19,5,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,PP Ojha,60,1,6.3,29,1,25,5,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,PP Ojha,61,1,6.4,30,1,26,5,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,PP Ojha,62,1,6.5,30,1,26,6,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,PP Ojha,63,1,7,29,1,27,6,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,DS Kulkarni,65,1,7.1,30,1,29,6,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,DS Kulkarni,69,1,7.2,33,1,33,6,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,DS Kulkarni,69,1,7.3,33,1,33,6,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,DS Kulkarni,70,1,7.4,34,1,34,6,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,DS Kulkarni,70,1,7.5,34,1,34,6,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,DS Kulkarni,70,1,8,34,1,34,6,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,PP Ojha,71,1,8.1,34,1,35,6,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,PP Ojha,72,1,8.2,34,1,35,7,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,PP Ojha,76,1,8.3,38,1,39,7,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,PP Ojha,76,1,8.4,38,0,39,7,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,PP Ojha,77,1,8.5,38,0,40,7,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,PP Ojha,77,1,9,38,0,40,7,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,KA Pollard,78,1,9.1,38,0,41,7,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,KA Pollard,80,1,9.2,40,0,41,9,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,KA Pollard,81,1,9.3,41,0,41,10,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,KA Pollard,85,1,9.4,45,0,45,10,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,KA Pollard,86,1,9.5,42,0,46,10,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,KA Pollard,87,1,10,43,0,46,11,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,SL Malinga,87,1,10.1,42,0,46,11,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,SL Malinga,88,1,10.2,43,0,46,12,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,SL Malinga,90,1,10.3,43,0,48,12,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,SL Malinga,90,1,10.4,43,0,48,12,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,SL Malinga,94,1,10.5,43,0,52,12,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,SL Malinga,98,1,11,46,0,56,12,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,Harbhajan Singh,99,1,11.1,46,0,56,13,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,Harbhajan Singh,100,1,11.2,46,0,57,13,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,Harbhajan Singh,100,1,11.3,40,0,57,13,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,Harbhajan Singh,101,1,11.4,40,0,57,14,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,Harbhajan Singh,102,1,11.5,40,0,58,14,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,Harbhajan Singh,103,1,11.5,40,0,58,14,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,Harbhajan Singh,104,1,12,39,0,58,15,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,MG Johnson,108,1,12.1,39,0,58,19,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,MG Johnson,109,1,12.2,40,0,58,20,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,MG Johnson,110,1,12.3,40,0,59,20,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,MG Johnson,111,1,12.4,41,0,59,21,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,S Dhawan,MG Johnson,111,2,12.5,41,1,59,21,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,MG Johnson,111,2,13,40,1,21,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,PP Ojha,112,2,13.1,40,1,22,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,PP Ojha,112,2,13.2,36,1,22,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,PP Ojha,113,2,13.3,37,1,22,1,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,PP Ojha,114,2,13.4,37,1,23,1,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,PP Ojha,115,2,13.5,38,1,23,2,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,PP Ojha,116,2,14,38,1,24,2,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,DS Kulkarni,120,2,14.1,40,1,28,2,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,DS Kulkarni,121,2,14.2,40,1,29,2,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,DS Kulkarni,122,2,14.3,37,1,29,3,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,DS Kulkarni,123,2,14.4,37,1,30,3,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,DS Kulkarni,127,2,14.5,40,1,30,7,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,DS Kulkarni,131,2,15,44,1,30,11,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,PP Ojha,135,2,15.1,47,1,34,11,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,PP Ojha,137,2,15.2,47,1,36,11,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,PP Ojha,138,2,15.3,48,1,37,11,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,PP Ojha,138,2,15.4,44,1,37,11,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,PP Ojha,144,2,15.5,46,1,37,17,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,PP Ojha,145,2,16,46,1,37,18,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,SL Malinga,146,2,16.1,46,1,37,19,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,SL Malinga,147,2,16.2,47,1,38,19,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,SL Malinga,148,2,16.3,47,1,38,20,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,SL Malinga,149,2,16.4,47,1,39,20,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,SL Malinga,151,2,16.5,48,1,39,22,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,SL Malinga,152,2,17,48,1,39,23,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,MG Johnson,156,2,17.1,48,1,39,27,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,MG Johnson,157,2,17.2,48,1,39,28,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,MG Johnson,157,2,17.3,47,1,39,28,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,MG Johnson,158,2,17.4,47,1,40,28,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,MG Johnson,158,2,17.5,47,0,40,28,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,MG Johnson,164,2,18,53,0,40,34,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,SL Malinga,165,2,18.1,53,0,41,34,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,SL Malinga,166,2,18.2,54,0,41,35,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,GH Vihari,SL Malinga,166,3,18.3,53,1,41,35,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,SL Malinga,167,3,18.3,53,1,35,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,SL Malinga,168,3,18.4,53,1,36,0,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,NLTC Perera,SL Malinga,169,3,18.5,53,1,36,1,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,SL Malinga,169,3,19,49,1,36,1,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,NLTC Perera,DS Kulkarni,170,3,19.1,49,1,36,2,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,DS Kulkarni,171,3,19.2,49,1,37,2,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,NLTC Perera,DS Kulkarni,171,3,19.3,48,1,37,2,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,NLTC Perera,DS Kulkarni,171,3,19.4,44,1,37,2,178
-376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,NLTC Perera,DS Kulkarni,172,3,19.5,41,1,37,2,178
 376,13-05-2013,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,CL White,DS Kulkarni,178,3,20,43,1,43,2,178
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,L Balaji,0,0,0.1,0,0,0,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,L Balaji,0,0,0.2,0,0,0,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,L Balaji,4,0,0.3,4,0,4,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,L Balaji,4,0,0.4,4,0,4,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,L Balaji,6,0,0.5,6,0,6,0,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,L Balaji,6,0,1,6,0,6,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,SMSM Senanayake,7,0,1.1,7,0,6,1,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,SMSM Senanayake,8,0,1.2,8,0,7,1,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,SMSM Senanayake,12,0,1.3,12,0,7,5,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,SMSM Senanayake,12,0,1.4,12,0,7,5,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,SMSM Senanayake,15,0,1.5,15,0,8,7,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,SMSM Senanayake,16,0,2,16,0,8,8,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,L Balaji,16,0,2.1,16,0,8,8,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,L Balaji,22,0,2.2,22,0,14,8,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,L Balaji,23,0,2.3,23,0,15,8,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,L Balaji,23,0,2.4,23,0,15,8,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,L Balaji,24,0,2.5,24,0,15,9,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,L Balaji,30,0,3,30,0,21,9,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,SMSM Senanayake,30,0,3.1,30,0,21,9,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,SMSM Senanayake,31,0,3.2,31,0,21,10,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,SMSM Senanayake,32,0,3.3,32,0,22,10,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,SMSM Senanayake,32,0,3.4,32,0,22,10,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,SMSM Senanayake,33,0,3.5,33,0,22,11,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,SMSM Senanayake,34,0,4,34,0,23,11,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,SP Narine,34,0,4.1,34,0,23,11,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,SP Narine,34,0,4.2,34,0,23,11,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,SP Narine,34,0,4.3,34,0,23,11,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,SP Narine,34,0,4.4,34,0,23,11,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,SP Narine,35,0,4.5,35,0,24,11,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,SP Narine,39,0,5,39,0,24,15,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,SMSM Senanayake,40,0,5.1,40,0,25,15,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,SMSM Senanayake,40,0,5.2,40,0,25,15,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,SMSM Senanayake,41,0,5.3,37,0,25,16,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,RV Uthappa,SMSM Senanayake,41,1,5.4,37,1,25,16,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,SMSM Senanayake,41,1,5.5,35,1,16,0,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,SMSM Senanayake,42,1,6,36,1,16,1,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,42,1,6.1,35,1,16,1,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,43,1,6.2,35,1,16,2,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,JH Kallis,44,1,6.3,32,1,17,2,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,44,1,6.4,32,1,17,2,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,44,1,6.5,29,1,17,2,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,45,1,7,29,1,17,3,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,R Bhatia,45,1,7.1,29,1,17,3,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,R Bhatia,46,1,7.2,24,1,17,4,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,R Bhatia,48,1,7.3,25,1,19,4,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,R Bhatia,48,1,7.4,25,1,19,4,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,R Bhatia,48,1,7.5,24,1,19,4,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,R Bhatia,50,1,8,20,1,21,4,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,RN ten Doeschate,51,1,8.1,21,1,21,5,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,RN ten Doeschate,52,1,8.2,21,1,22,5,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,RN ten Doeschate,53,1,8.3,21,1,22,6,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,RN ten Doeschate,54,1,8.4,22,1,23,6,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,RN ten Doeschate,56,1,8.5,23,1,23,8,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,RN ten Doeschate,57,1,9,23,1,23,9,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,58,1,9.1,24,1,23,10,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,JH Kallis,58,1,9.2,24,1,23,10,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,JH Kallis,59,1,9.3,25,1,24,10,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,60,1,9.4,26,1,24,11,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,JH Kallis,66,1,9.5,31,1,30,11,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,JH Kallis,72,1,10,33,1,36,11,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,R Bhatia,73,1,10.1,33,1,36,12,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,R Bhatia,75,1,10.2,35,1,38,12,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,R Bhatia,81,1,10.3,40,1,44,12,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,R Bhatia,82,1,10.4,41,0,45,12,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,R Bhatia,88,1,10.5,47,0,45,18,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,R Bhatia,89,1,11,47,0,45,19,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,SMSM Senanayake,90,1,11.1,48,0,45,20,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,SMSM Senanayake,91,1,11.2,48,0,46,20,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,SMSM Senanayake,92,1,11.3,48,0,46,21,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,SMSM Senanayake,93,1,11.4,49,0,47,21,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,SMSM Senanayake,94,1,11.5,50,0,47,22,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,SMSM Senanayake,94,1,12,49,0,47,22,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,L Balaji,94,1,12.1,49,0,47,22,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,L Balaji,95,1,12.2,49,0,47,23,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,L Balaji,96,1,12.3,48,0,48,23,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,L Balaji,97,1,12.4,49,0,48,24,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,AJ Finch,L Balaji,97,2,12.5,49,1,48,24,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,L Balaji,97,2,13,47,1,24,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,SP Narine,97,2,13.1,46,1,24,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,SP Narine,98,2,13.2,46,1,25,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,SP Narine,98,2,13.3,45,1,25,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,SP Narine,98,2,13.4,44,1,25,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,SP Narine,98,2,13.5,42,1,25,0,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,SP Narine,98,2,14,41,1,25,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,98,2,14.1,40,1,25,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,99,2,14.1,41,1,25,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,99,2,14.2,40,1,25,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,103,2,14.3,43,1,29,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,107,2,14.4,41,1,33,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,111,2,14.5,39,1,37,0,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,112,2,15,39,1,38,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,R Bhatia,113,2,15.1,38,1,39,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,R Bhatia,114,2,15.2,33,1,39,1,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,R Bhatia,114,2,15.3,32,1,39,1,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,R Bhatia,115,2,15.4,27,1,40,1,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,R Bhatia,116,2,15.5,27,1,40,2,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,R Bhatia,116,2,16,26,1,40,2,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,SP Narine,116,2,16.1,25,1,40,2,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,SP Narine,117,2,16.2,25,1,40,3,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,SP Narine,118,2,16.3,25,1,41,3,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,SP Narine,124,2,16.4,30,1,41,9,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,SP Narine,124,2,16.5,30,1,41,9,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,SP Narine,125,2,17,31,1,41,10,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,L Balaji,126,2,17.1,31,1,41,11,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,L Balaji,130,2,17.2,34,1,45,11,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,L Balaji,132,2,17.3,35,1,47,11,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,L Balaji,136,2,17.4,39,0,51,11,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,L Balaji,137,2,17.5,40,0,52,11,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,L Balaji,143,2,18,46,0,52,17,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,SP Narine,147,2,18.1,49,0,56,17,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,SP Narine,148,2,18.2,50,0,57,17,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,SP Narine,150,2,18.3,52,0,57,19,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,SP Narine,151,2,18.4,53,0,57,20,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,SP Narine,152,2,18.5,54,0,58,20,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,SP Narine,154,2,19,56,0,58,22,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,158,2,19.1,59,0,62,22,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,162,2,19.2,63,0,66,22,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,MK Pandey,JH Kallis,162,3,19.3,59,1,66,22,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,JH Kallis,168,3,19.4,61,1,28,0,170
-377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,JH Kallis,170,3,19.5,59,1,30,0,170
 377,15-05-2013,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Yuvraj Singh,JH Kallis,170,4,20,58,2,30,0,170
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,IK Pathan,3,0,0.1,3,0,3,0,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,IK Pathan,3,0,0.2,3,0,3,0,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,IK Pathan,3,0,0.3,3,0,3,0,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,IK Pathan,3,0,0.4,3,0,3,0,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,IK Pathan,4,0,0.5,4,0,3,1,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,IK Pathan,5,0,0.5,5,0,3,1,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,IK Pathan,5,0,1,5,0,3,1,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,S Kaul,5,0,1.1,5,0,3,1,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,S Kaul,5,0,1.2,5,0,3,1,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,S Kaul,6,0,1.3,6,0,3,2,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,S Kaul,6,0,1.4,6,0,3,2,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,S Kaul,8,0,1.5,8,0,5,2,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,S Kaul,9,0,2,9,0,6,2,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,A Nehra,9,0,2.1,9,0,6,2,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,A Nehra,9,0,2.2,9,0,6,2,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,A Nehra,9,0,2.3,9,0,6,2,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,A Nehra,10,0,2.4,10,0,7,2,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,A Nehra,10,0,2.5,10,0,7,2,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,A Nehra,11,0,3,11,0,7,3,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,IK Pathan,11,0,3.1,11,0,7,3,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,IK Pathan,12,0,3.2,12,0,7,3,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,IK Pathan,12,0,3.3,12,0,7,3,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,IK Pathan,12,0,3.4,12,0,7,3,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,IK Pathan,16,0,3.5,16,0,11,3,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,IK Pathan,20,0,4,20,0,15,3,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,UT Yadav,22,0,4.1,22,0,15,5,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,UT Yadav,22,0,4.2,22,0,15,5,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,UT Yadav,24,0,4.3,24,0,15,7,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,UT Yadav,25,0,4.4,25,0,15,8,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,UT Yadav,26,0,4.5,26,0,16,8,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,UT Yadav,30,0,5,27,0,16,12,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,J Botha,31,0,5.1,28,0,17,12,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,J Botha,32,0,5.2,29,0,17,13,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,J Botha,36,0,5.3,33,0,21,13,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,J Botha,37,0,5.4,33,0,22,13,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,J Botha,41,0,5.5,36,0,22,17,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,J Botha,47,0,6,42,0,23,22,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,S Kaul,47,0,6.1,42,0,23,22,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,S Kaul,48,0,6.2,43,0,23,23,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,S Kaul,53,0,6.2,47,0,23,23,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,S Kaul,53,0,6.3,47,0,23,23,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,S Kaul,55,0,6.4,47,0,25,23,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,S Kaul,59,0,6.5,50,0,29,23,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,M Vijay,S Kaul,61,0,7,52,0,31,23,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,A Nehra,61,0,7.1,52,0,31,23,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,A Nehra,61,1,7.2,52,1,31,23,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,SK Raina,A Nehra,61,1,7.3,51,1,23,0,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,SK Raina,A Nehra,61,1,7.4,51,1,23,0,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,SK Raina,A Nehra,63,1,7.5,52,1,23,2,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,SK Raina,A Nehra,63,1,8,52,1,23,2,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,J Botha,64,1,8.1,52,1,24,2,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,SK Raina,J Botha,65,1,8.2,53,1,24,3,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,J Botha,66,1,8.3,54,1,25,3,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,SK Raina,J Botha,67,1,8.4,51,1,25,4,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,J Botha,68,1,8.5,48,1,26,4,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,SK Raina,J Botha,69,1,8.5,47,1,26,4,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,SK Raina,J Botha,69,1,9,47,1,26,4,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,UT Yadav,69,1,9.1,45,1,26,4,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MEK Hussey,UT Yadav,69,2,9.2,44,2,26,4,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,SK Raina,UT Yadav,70,2,9.3,44,2,5,0,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,UT Yadav,70,2,9.4,40,2,5,0,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,UT Yadav,70,2,9.5,39,2,5,0,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,UT Yadav,71,2,10,39,2,5,1,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,RE van der Merwe,72,2,10.1,36,2,5,2,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,SK Raina,RE van der Merwe,72,2,10.2,35,2,5,2,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,SK Raina,RE van der Merwe,74,2,10.3,33,2,7,2,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,SK Raina,RE van der Merwe,74,3,10.4,27,3,7,2,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,RE van der Merwe,75,3,10.5,28,3,2,1,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,RE van der Merwe,77,3,11,29,3,4,1,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,IK Pathan,79,3,11.1,26,3,4,3,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,IK Pathan,80,3,11.2,27,3,4,4,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,IK Pathan,81,3,11.3,26,3,5,4,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,IK Pathan,82,3,11.4,23,3,5,5,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,IK Pathan,88,3,11.5,27,3,11,5,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,IK Pathan,88,3,12,27,3,11,5,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,RE van der Merwe,89,3,12.1,28,2,11,6,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,RE van der Merwe,89,3,12.2,28,2,11,6,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,RE van der Merwe,89,3,12.3,28,2,11,6,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,RE van der Merwe,90,3,12.4,27,2,12,6,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,RE van der Merwe,91,3,12.5,28,2,12,7,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,RE van der Merwe,92,3,13,28,2,13,7,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,S Kaul,92,3,13.1,27,2,13,7,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,S Kaul,93,3,13.2,27,2,14,7,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,S Kaul,94,3,13.3,27,2,14,8,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,S Kaul,95,3,13.4,27,2,15,8,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,S Kaul,99,3,13.5,30,2,15,12,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,S Kaul,100,3,14,31,2,15,13,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,RE van der Merwe,101,3,14,32,2,15,13,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,RE van der Merwe,105,3,14.1,36,1,17,15,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,RE van der Merwe,106,3,14.2,36,1,18,15,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,RE van der Merwe,106,3,14.3,36,1,18,15,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,RE van der Merwe,107,3,14.4,37,1,18,16,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,RE van der Merwe,108,3,14.5,37,1,19,16,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,RE van der Merwe,109,3,15,37,1,19,17,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,A Nehra,110,3,15.1,38,1,19,17,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,A Nehra,111,3,15.2,37,1,20,17,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,A Nehra,117,3,15.3,43,0,23,20,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,A Nehra,121,3,15.4,46,0,27,20,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,A Nehra,123,3,15.5,46,0,29,20,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,A Nehra,125,3,16,46,0,31,20,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,UT Yadav,127,3,16.1,47,0,31,22,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,UT Yadav,128,3,16.2,47,0,31,23,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,UT Yadav,129,3,16.3,47,0,32,23,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,UT Yadav,130,3,16.4,42,0,32,24,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,UT Yadav,131,3,16.5,43,0,33,24,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,RA Jadeja,UT Yadav,131,4,17,42,1,33,24,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,S Kaul,132,4,17.1,43,1,34,0,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,DJ Bravo,S Kaul,132,4,17.2,43,1,34,0,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,DJ Bravo,S Kaul,133,4,17.3,43,1,34,1,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,S Kaul,139,4,17.4,48,1,40,1,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,S Kaul,140,4,17.5,48,1,41,1,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,DJ Bravo,S Kaul,142,4,18,50,1,41,3,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,A Nehra,148,4,18.1,55,1,47,3,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,A Nehra,152,4,18.2,58,1,51,3,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,A Nehra,153,4,18.3,58,1,52,3,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,DJ Bravo,A Nehra,157,4,18.4,58,1,52,7,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,DJ Bravo,A Nehra,158,4,18.5,58,1,52,8,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,A Nehra,160,4,19,59,1,54,8,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,DJ Bravo,UT Yadav,161,4,19.1,56,1,54,9,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,UT Yadav,161,4,19.2,55,1,54,9,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,UT Yadav,164,4,19.3,58,1,57,9,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,DJ Bravo,UT Yadav,165,4,19.4,58,1,57,10,168
-378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,MS Dhoni,UT Yadav,166,4,19.5,58,1,58,10,168
 378,14-05-2013,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Daredevils,DJ Bravo,UT Yadav,168,4,20,59,1,58,12,168
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,AA Chavan,0,0,0.1,0,0,0,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,AA Chavan,0,0,0.2,0,0,0,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,AA Chavan,0,0,0.3,0,0,0,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,AA Chavan,1,0,0.4,1,0,1,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,AA Chavan,2,0,0.5,2,0,1,1,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,AA Chavan,2,0,1,2,0,1,1,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,JP Faulkner,3,0,1.1,3,0,2,1,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,JP Faulkner,3,0,1.2,3,0,2,1,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,JP Faulkner,3,0,1.3,3,0,2,1,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,JP Faulkner,9,0,1.4,9,0,7,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,JP Faulkner,9,0,1.5,9,0,7,2,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,JP Faulkner,10,0,2,10,0,8,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,AA Chavan,16,0,2.1,16,0,14,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,AA Chavan,18,0,2.2,18,0,16,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,AA Chavan,24,0,2.3,24,0,22,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,AA Chavan,24,0,2.4,24,0,22,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,AA Chavan,25,0,2.5,25,0,23,2,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,AA Chavan,25,0,3,25,0,23,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,SR Watson,25,0,3.1,25,0,23,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,GJ Maxwell,SR Watson,25,1,3.2,25,1,23,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,SR Watson,26,1,3.3,26,1,2,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,SR Watson,27,1,3.4,27,1,3,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,SR Watson,27,1,3.5,27,1,3,0,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,SR Watson,27,1,4,27,1,3,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,AA Chavan,27,1,4.1,27,1,3,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,AA Chavan,27,1,4.2,27,1,3,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,AA Chavan,31,1,4.3,31,1,7,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,AA Chavan,35,1,4.4,35,1,11,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,AA Chavan,35,1,4.5,35,1,11,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,AA Chavan,35,1,5,35,1,11,0,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,SR Watson,36,1,5,36,1,11,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,SR Watson,36,1,5.1,36,1,11,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,SR Watson,40,1,5.2,40,1,11,4,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,SR Watson,41,1,5.3,40,1,11,4,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,SR Watson,41,1,5.4,39,1,11,4,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,SR Watson,43,1,5.5,41,1,13,4,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,SR Watson,49,1,6,46,1,19,4,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,STR Binny,50,1,6.1,47,1,19,5,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,STR Binny,54,1,6.2,51,1,23,5,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,STR Binny,55,1,6.3,46,1,24,5,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,STR Binny,56,1,6.4,47,1,24,6,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,STR Binny,56,1,6.5,46,1,24,6,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,STR Binny,60,1,7,44,1,28,6,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,PV Tambe,61,1,7,43,1,28,6,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,PV Tambe,62,1,7.1,38,1,28,7,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,PV Tambe,64,1,7.2,40,1,30,7,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,PV Tambe,65,1,7.3,40,1,31,7,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,PV Tambe,65,1,7.4,40,1,31,7,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,PV Tambe,65,1,7.5,40,1,31,7,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,PV Tambe,66,1,8,41,0,31,8,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,KK Cooper,67,1,8.1,41,0,31,9,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,KK Cooper,71,1,8.2,44,0,35,9,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,KK Cooper,72,1,8.3,45,0,36,9,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,KK Cooper,73,1,8.4,46,0,36,10,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,KK Cooper,73,1,8.5,46,0,36,10,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,KK Cooper,73,1,9,46,0,36,10,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,PV Tambe,74,1,9.1,43,0,36,11,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,PV Tambe,74,1,9.2,39,0,36,11,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,PV Tambe,76,1,9.3,41,0,38,11,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,PV Tambe,77,1,9.4,42,0,39,11,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,PV Tambe,81,1,9.5,45,0,39,15,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,PV Tambe,81,1,10,45,0,39,15,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,JP Faulkner,85,1,10.1,45,0,43,15,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,JP Faulkner,89,1,10.2,48,0,47,15,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,JP Faulkner,90,1,10.3,49,0,48,15,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,JP Faulkner,91,1,10.4,48,0,48,16,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,JP Faulkner,93,1,10.5,44,0,50,16,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,JP Faulkner,94,1,11,44,0,51,16,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,PV Tambe,95,1,11.1,41,0,52,16,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,PV Tambe,96,1,11.2,41,0,52,17,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,PV Tambe,97,1,11.3,41,0,53,17,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,PV Tambe,101,1,11.4,45,0,53,21,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KD Karthik,PV Tambe,101,2,11.5,41,1,53,21,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,PV Tambe,105,2,12,44,1,57,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,RG Sharma,KK Cooper,106,2,12.1,44,1,57,1,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,KK Cooper,108,2,12.2,44,1,59,1,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,KK Cooper,108,2,12.3,43,1,59,1,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AP Tare,KK Cooper,108,3,12.4,43,2,59,1,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,RG Sharma,KK Cooper,110,3,12.5,45,2,3,0,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,RG Sharma,KK Cooper,110,3,13,44,2,3,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,PV Tambe,110,3,13.1,43,2,3,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,PV Tambe,111,3,13.2,40,2,3,1,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,RG Sharma,PV Tambe,115,3,13.3,43,2,7,1,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,RG Sharma,PV Tambe,116,3,13.4,43,2,8,1,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,PV Tambe,122,3,13.5,49,2,8,7,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,PV Tambe,123,3,14,50,2,8,8,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,SR Watson,124,3,14.1,50,2,9,8,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,RG Sharma,SR Watson,125,3,14.2,51,2,9,9,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,SR Watson,126,3,14.3,50,2,10,9,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,RG Sharma,SR Watson,127,3,14.4,50,2,10,10,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,SR Watson,131,3,14.5,50,2,14,10,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,SR Watson,132,3,15,51,2,14,10,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,JP Faulkner,132,3,15.1,47,2,14,10,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,JP Faulkner,133,3,15.1,44,2,14,10,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,JP Faulkner,133,3,15.2,43,2,14,10,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,JP Faulkner,134,3,15.3,43,2,15,10,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,RG Sharma,JP Faulkner,138,3,15.4,45,2,15,14,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,RG Sharma,JP Faulkner,138,4,15.5,44,3,15,14,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,JP Faulkner,139,4,16,44,3,16,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,KK Cooper,140,4,16.1,44,3,17,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AT Rayudu,KK Cooper,142,4,16.2,45,3,17,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AT Rayudu,KK Cooper,143,4,16.3,42,3,17,3,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,KK Cooper,144,4,16.3,43,2,17,3,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,KA Pollard,KK Cooper,144,5,16.4,39,3,17,3,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AT Rayudu,KK Cooper,145,5,16.5,39,3,4,0,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Harbhajan Singh,KK Cooper,147,5,17,39,3,4,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AT Rayudu,SR Watson,149,5,17.1,41,3,6,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AT Rayudu,SR Watson,149,5,17.2,41,2,6,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AT Rayudu,SR Watson,150,5,17.3,40,2,7,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Harbhajan Singh,SR Watson,151,5,17.4,41,2,7,3,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,AT Rayudu,SR Watson,151,6,17.5,41,3,7,3,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Harbhajan Singh,SR Watson,155,6,18,44,3,7,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,MG Johnson,KK Cooper,155,6,18.1,40,3,7,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,MG Johnson,KK Cooper,155,6,18.2,39,3,7,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,MG Johnson,KK Cooper,155,6,18.3,33,3,7,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,MG Johnson,KK Cooper,155,6,18.4,32,3,7,0,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,MG Johnson,KK Cooper,156,6,18.5,32,3,7,1,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Harbhajan Singh,KK Cooper,162,6,19,37,3,13,1,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,MG Johnson,JP Faulkner,163,6,19.1,37,3,13,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Harbhajan Singh,JP Faulkner,164,6,19.2,37,3,14,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,MG Johnson,JP Faulkner,164,7,19.3,33,4,14,2,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,SL Malinga,JP Faulkner,165,7,19.4,33,4,14,1,166
-379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Harbhajan Singh,JP Faulkner,165,7,19.5,33,4,14,1,166
 379,15-05-2013,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Harbhajan Singh,JP Faulkner,166,8,20,33,5,15,1,166
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Kumar,0,0,0.1,0,0,0,0,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Kumar,0,0,0.2,0,0,0,0,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Kumar,1,0,0.3,1,0,1,0,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,1,0,0.4,1,0,1,0,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,3,0,0.5,3,0,2,1,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,3,0,1,3,0,2,1,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Awana,3,0,1.1,3,0,2,1,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Awana,4,0,1.2,4,0,2,2,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,4,0,1.3,4,0,2,2,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,8,0,1.4,8,0,6,2,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,10,0,1.5,10,0,8,2,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,11,0,2,11,0,9,2,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,15,0,2.1,15,0,13,2,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,15,0,2.2,15,0,13,2,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Kumar,16,0,2.3,16,0,13,2,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Kumar,16,0,2.4,16,0,13,2,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Kumar,16,0,2.5,16,0,13,2,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Kumar,18,0,3,18,0,13,4,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,18,0,3.1,18,0,13,4,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,22,0,3.2,22,0,17,4,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,23,0,3.3,23,0,18,4,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MS Gony,23,0,3.4,23,0,18,4,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MS Gony,23,0,3.5,23,0,18,4,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MS Gony,23,0,4,23,0,18,4,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,24,0,4.1,24,0,19,4,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MG Neser,24,0,4.2,24,0,19,4,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MG Neser,28,0,4.3,28,0,19,8,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MG Neser,29,0,4.4,29,0,19,9,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,35,0,4.5,35,0,25,9,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,41,0,5,41,0,31,9,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MS Gony,41,0,5.1,41,0,31,9,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MS Gony,45,0,5.2,45,0,31,13,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MS Gony,49,0,5.3,48,0,31,17,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MS Gony,53,0,5.4,52,0,31,21,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MS Gony,54,0,5.5,51,0,31,22,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,58,0,6,55,0,35,22,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,PP Chawla,58,0,6.1,55,0,35,22,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,PP Chawla,59,0,6.2,55,0,35,23,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,60,0,6.3,56,0,35,23,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,PP Chawla,61,0,6.4,53,0,35,24,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,65,0,6.5,55,0,39,24,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,66,0,6.5,55,0,39,24,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,67,0,7,52,0,40,24,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,P Awana,68,0,7.1,53,0,41,24,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Awana,70,0,7.2,54,0,41,26,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Awana,70,0,7.3,54,0,41,26,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Awana,72,0,7.4,56,0,41,28,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Awana,72,0,7.5,54,0,41,28,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Awana,73,0,8,55,0,41,28,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,PP Chawla,73,0,8.1,51,0,41,28,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,PP Chawla,73,0,8.2,50,0,41,28,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,PP Chawla,73,0,8.3,50,0,41,28,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,PP Chawla,74,0,8.4,51,0,41,29,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,76,0,8.5,53,0,43,29,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,77,0,9,53,0,43,29,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,77,0,9.1,53,0,43,29,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,81,0,9.2,53,0,47,29,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,82,0,9.3,53,0,48,29,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MG Neser,82,0,9.4,47,0,48,29,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MG Neser,83,0,9.5,42,0,48,30,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,86,0,9.5,45,0,50,30,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MG Neser,88,0,10,43,0,52,30,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,PP Chawla,92,0,10.1,43,0,52,34,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,PP Chawla,92,0,10.2,39,0,52,34,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,PP Chawla,93,0,10.3,39,0,52,35,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,95,0,10.4,37,0,54,35,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,95,0,10.5,37,0,54,35,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,PP Chawla,96,0,11,37,0,55,35,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,102,0,11.1,42,0,61,35,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CH Gayle,MS Gony,102,1,11.2,41,1,61,35,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,MS Gony,103,1,11.3,38,1,35,1,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MS Gony,104,1,11.4,38,1,36,1,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,MS Gony,108,1,11.5,41,1,36,5,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,MS Gony,108,1,12,40,1,36,5,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,PP Chawla,108,1,12.1,38,1,36,5,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,PP Chawla,112,1,12.2,42,1,40,5,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,PP Chawla,113,1,12.3,41,1,41,5,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,PP Chawla,113,1,12.4,41,1,41,5,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,PP Chawla,113,1,12.5,40,1,41,5,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,PP Chawla,115,1,13,42,1,41,7,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Awana,119,1,13.1,46,1,45,7,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Awana,123,1,13.2,50,1,49,7,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Awana,123,1,13.3,49,1,49,7,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Awana,123,1,13.4,47,1,49,7,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Awana,124,1,13.5,47,1,50,7,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,P Awana,125,1,14,48,1,50,8,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,P Kumar,126,1,14.1,45,1,50,9,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Kumar,127,1,14.2,45,1,50,9,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,P Kumar,127,1,14.3,45,1,50,9,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,P Kumar,128,1,14.3,45,1,50,9,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,P Kumar,129,1,14.3,43,1,50,9,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,P Kumar,131,1,14.4,43,1,50,11,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,P Kumar,132,1,14.5,40,1,50,12,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,P Kumar,133,1,15,41,1,51,12,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,CA Pujara,MS Gony,133,2,15.1,40,2,51,12,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,MS Gony,137,2,15.2,42,2,12,4,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,MS Gony,137,2,15.3,42,2,12,4,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,MS Gony,138,2,15.4,42,2,12,5,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,MS Gony,139,2,15.5,37,2,13,5,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,MS Gony,140,2,16,38,1,13,6,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,P Awana,140,2,16.1,37,1,13,6,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,P Awana,141,2,16.1,37,1,13,6,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,P Awana,142,2,16.2,34,1,13,7,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,P Awana,143,2,16.3,35,1,14,7,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,P Awana,144,2,16.4,36,1,14,8,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,V Kohli,P Awana,144,3,16.5,32,2,14,8,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,P Awana,145,3,17,32,2,9,0,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,MG Neser,145,3,17.1,32,2,9,0,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,MG Neser,151,3,17.2,38,2,15,0,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,MG Neser,151,3,17.3,36,2,15,0,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,MG Neser,155,3,17.4,36,2,19,0,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,MG Neser,156,3,17.5,33,2,20,0,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,MC Henriques,MG Neser,157,3,18,34,2,20,1,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,MC Henriques,P Kumar,158,3,18.1,35,2,20,2,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,P Kumar,159,3,18.2,35,2,21,2,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,MC Henriques,P Kumar,159,3,18.3,34,2,21,2,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,MC Henriques,P Kumar,159,3,18.4,33,2,21,2,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,MC Henriques,P Kumar,165,3,18.5,38,2,21,8,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,MC Henriques,P Kumar,169,3,19,42,2,21,12,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,MG Neser,171,3,19.1,43,2,23,12,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,MG Neser,175,3,19.2,46,2,27,12,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,MG Neser,179,3,19.3,48,2,31,12,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,MG Neser,185,3,19.4,53,2,37,12,190
-380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,AB de Villiers,MG Neser,186,3,19.5,53,2,38,12,190
 380,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,MC Henriques,MG Neser,190,3,20,57,1,38,16,190
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,PA Patel,BJ Hodge,0,0,0.1,0,0,0,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,PA Patel,BJ Hodge,0,0,0.2,0,0,0,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,PA Patel,BJ Hodge,0,0,0.3,0,0,0,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,PA Patel,BJ Hodge,1,0,0.4,1,0,1,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,S Dhawan,BJ Hodge,2,0,0.5,2,0,1,1,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,PA Patel,BJ Hodge,3,0,1,3,0,2,1,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,PA Patel,JP Faulkner,3,1,1.1,3,1,2,1,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,JP Faulkner,3,1,1.2,3,1,1,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,JP Faulkner,3,1,1.3,3,1,1,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,JP Faulkner,4,1,1.4,4,1,1,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,S Dhawan,JP Faulkner,4,1,1.5,4,1,1,0,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,S Dhawan,JP Faulkner,4,2,2,4,2,1,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,SR Watson,4,2,2.1,4,2,0,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,SR Watson,4,2,2.2,4,2,0,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,SR Watson,5,2,2.3,5,2,1,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,CL White,SR Watson,5,3,2.4,5,3,1,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,SR Watson,5,3,2.5,5,3,1,0,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,SR Watson,5,3,3,5,3,1,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,JP Faulkner,5,3,3.1,5,3,1,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,JP Faulkner,5,3,3.2,5,3,1,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,JP Faulkner,5,3,3.3,5,3,1,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,JP Faulkner,6,3,3.3,6,3,1,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,JP Faulkner,7,3,3.4,7,3,1,1,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,JP Faulkner,8,3,3.5,8,3,2,1,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,JP Faulkner,8,3,4,8,3,2,1,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,PV Tambe,9,3,4.1,9,3,3,1,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,PV Tambe,9,3,4.2,9,3,3,1,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,PV Tambe,13,3,4.3,13,3,5,3,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,PV Tambe,14,3,4.4,14,3,6,3,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,PV Tambe,14,3,4.5,14,3,6,3,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,PV Tambe,15,3,4.5,15,3,6,3,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,PV Tambe,17,3,5,17,3,6,5,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SR Watson,17,3,5.1,17,3,6,5,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SR Watson,18,3,5.2,17,3,7,5,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,SR Watson,19,3,5.3,17,3,7,6,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SR Watson,20,3,5.4,17,3,8,6,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,SR Watson,21,3,5.5,18,2,8,7,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SR Watson,21,3,6,18,2,8,7,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,STR Binny,23,3,6.1,20,2,9,8,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,STR Binny,24,3,6.2,20,2,10,8,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,STR Binny,28,3,6.3,24,2,12,10,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,STR Binny,28,3,6.4,24,1,12,10,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,STR Binny,28,3,6.5,24,1,12,10,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,STR Binny,30,3,7,26,1,14,10,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,PV Tambe,30,3,7.1,25,1,14,10,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,PV Tambe,31,3,7.2,26,0,14,11,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,PV Tambe,32,3,7.3,27,0,14,11,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,PV Tambe,32,3,7.4,27,0,14,11,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,PV Tambe,33,3,7.5,28,0,14,12,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,PV Tambe,34,3,8,29,0,15,12,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SK Trivedi,34,3,8.1,29,0,15,12,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SK Trivedi,35,3,8.2,29,0,16,12,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,SK Trivedi,37,3,8.3,30,0,16,14,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,SK Trivedi,37,3,8.4,29,0,16,14,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,SK Trivedi,39,3,8.5,31,0,16,16,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,SK Trivedi,40,3,9,31,0,17,16,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,KK Cooper,41,3,9.1,32,0,18,16,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,KK Cooper,41,3,9.2,28,0,18,16,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,KK Cooper,42,3,9.3,28,0,18,17,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,KK Cooper,43,3,9.4,29,0,19,17,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,KK Cooper,47,3,9.5,32,0,21,19,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,KK Cooper,48,3,10,31,0,22,19,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SK Trivedi,49,3,10.1,32,0,23,19,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,SK Trivedi,49,3,10.2,31,0,23,19,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,GH Vihari,SK Trivedi,49,4,10.3,30,1,23,19,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SK Trivedi,49,4,10.4,29,1,23,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SK Trivedi,49,4,10.5,28,1,23,0,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SK Trivedi,51,4,11,30,1,25,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,PV Tambe,51,4,11.1,28,1,25,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,PV Tambe,53,4,11.2,29,1,25,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,PV Tambe,54,4,11.3,26,1,25,1,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,PV Tambe,58,4,11.4,30,1,29,1,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,PV Tambe,60,4,11.4,32,1,29,1,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,PV Tambe,60,4,11.5,30,1,29,1,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,PV Tambe,61,4,12,31,1,29,2,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,SK Trivedi,62,4,12.1,31,1,29,3,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SK Trivedi,63,4,12.2,31,1,30,3,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,SK Trivedi,65,4,12.3,33,1,30,5,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,SK Trivedi,66,4,12.4,33,1,30,6,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SK Trivedi,67,4,12.5,33,1,31,6,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,SK Trivedi,69,4,13,35,1,31,6,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,KK Cooper,70,4,13.1,35,1,32,6,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,KK Cooper,74,4,13.2,37,1,32,10,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,KK Cooper,76,4,13.3,39,1,32,12,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,KK Cooper,77,4,13.4,38,1,32,13,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,KK Cooper,77,4,13.5,37,1,32,13,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,KK Cooper,83,4,14,42,1,38,13,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,SK Trivedi,84,4,14.1,43,1,38,14,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SK Trivedi,85,4,14.2,43,1,38,14,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,SK Trivedi,86,4,14.3,43,1,38,14,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SK Trivedi,88,4,14.4,41,1,40,14,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SK Trivedi,89,4,14.5,41,1,41,14,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,SK Trivedi,90,4,15,41,1,41,15,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,SR Watson,91,4,15.1,42,1,41,16,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SR Watson,95,4,15.2,46,0,45,16,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SR Watson,96,4,15.3,47,0,46,16,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,SR Watson,97,4,15.4,48,0,46,17,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,SR Watson,98,4,15.5,47,0,47,17,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,SR Watson,104,4,16,53,0,47,23,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,JP Faulkner,105,4,16.1,52,0,48,23,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DJG Sammy,JP Faulkner,105,5,16.2,51,1,48,23,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,JP Faulkner,106,5,16.3,48,1,48,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,NLTC Perera,JP Faulkner,108,5,16.4,48,1,48,2,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,NLTC Perera,JP Faulkner,110,5,16.5,50,1,48,4,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,NLTC Perera,JP Faulkner,111,5,17,50,1,48,5,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,NLTC Perera,KK Cooper,113,5,17.1,51,1,48,7,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,NLTC Perera,KK Cooper,114,5,17.2,51,1,48,8,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,KK Cooper,116,5,17.3,51,1,50,8,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,KK Cooper,120,5,17.4,54,1,54,8,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,KK Cooper,121,5,17.5,54,1,55,8,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,NLTC Perera,KK Cooper,122,5,18,53,1,55,9,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,NLTC Perera,JP Faulkner,124,5,18.1,54,1,55,11,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,NLTC Perera,JP Faulkner,125,5,18.2,51,1,55,12,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,BB Samantray,JP Faulkner,125,6,18.3,49,2,55,12,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,NLTC Perera,JP Faulkner,126,6,18.3,49,2,12,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,NLTC Perera,JP Faulkner,128,6,18.4,51,2,14,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,NLTC Perera,JP Faulkner,129,6,18.5,46,2,15,0,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,DW Steyn,JP Faulkner,129,7,19,45,3,15,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,NLTC Perera,KK Cooper,130,7,19.1,45,3,16,0,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,KV Sharma,KK Cooper,132,7,19.2,46,3,16,2,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,KV Sharma,KK Cooper,133,7,19.3,45,3,16,2,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,NLTC Perera,KK Cooper,134,7,19.4,45,3,17,2,136
-381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,KV Sharma,KK Cooper,136,8,19.5,46,4,17,4,136
 381,17-05-2013,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,NLTC Perera,KK Cooper,136,9,20,45,5,17,0,136
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,AC Gilchrist,NM Coulter-Nile,0,0,0.1,0,0,0,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,AC Gilchrist,NM Coulter-Nile,0,0,0.2,0,0,0,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,AC Gilchrist,NM Coulter-Nile,1,0,0.3,1,0,1,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Mandeep Singh,NM Coulter-Nile,2,0,0.4,2,0,1,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,AC Gilchrist,NM Coulter-Nile,2,0,0.5,2,0,1,1,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,AC Gilchrist,NM Coulter-Nile,2,0,1,2,0,1,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Mandeep Singh,R Dhawan,2,0,1.1,2,0,1,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Mandeep Singh,R Dhawan,2,0,1.2,2,0,1,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Mandeep Singh,R Dhawan,2,0,1.3,2,0,1,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Mandeep Singh,R Dhawan,2,1,1.4,2,1,1,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,R Dhawan,2,1,1.5,2,1,1,0,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,R Dhawan,2,1,2,2,1,1,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,AC Gilchrist,NM Coulter-Nile,6,1,2.1,6,1,5,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,AC Gilchrist,NM Coulter-Nile,6,2,2.2,6,2,5,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,NM Coulter-Nile,10,2,2.3,10,2,4,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,NM Coulter-Nile,10,2,2.4,10,2,4,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,NM Coulter-Nile,10,2,2.5,10,2,4,0,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,NM Coulter-Nile,11,2,3,11,2,5,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,R Dhawan,15,2,3.1,15,2,9,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,R Dhawan,15,2,3.2,15,2,9,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,R Dhawan,15,2,3.3,15,2,9,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,R Dhawan,15,2,3.4,15,2,9,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,R Dhawan,16,2,3.5,16,2,10,0,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,R Dhawan,16,2,4,16,2,10,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,NM Coulter-Nile,16,2,4.1,16,2,10,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,NM Coulter-Nile,16,2,4.2,16,2,10,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,NM Coulter-Nile,20,2,4.3,20,2,14,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,NM Coulter-Nile,21,2,4.3,21,2,14,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,NM Coulter-Nile,21,2,4.4,21,2,14,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,NM Coulter-Nile,21,2,4.5,21,2,14,0,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,NM Coulter-Nile,22,2,5,22,2,15,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,DS Kulkarni,26,2,5.1,26,2,19,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,DS Kulkarni,26,2,5.2,25,2,19,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,DS Kulkarni,30,2,5.3,28,2,23,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,DS Kulkarni,34,2,5.4,32,2,27,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,RG Sharma,35,2,5.5,33,2,28,0,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,RG Sharma,35,2,6,33,2,28,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,Harbhajan Singh,36,2,6.1,34,2,29,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,Harbhajan Singh,37,2,6.2,35,2,29,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,Harbhajan Singh,38,2,6.3,36,1,30,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,Harbhajan Singh,39,2,6.4,37,1,30,2,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,Harbhajan Singh,39,2,6.5,37,1,30,2,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,Harbhajan Singh,43,2,7,37,1,34,2,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,SL Malinga,44,2,7,38,0,34,2,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,SL Malinga,44,2,7.1,34,0,34,2,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,SL Malinga,50,2,7.2,40,0,34,8,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,SL Malinga,54,2,7.3,44,0,34,12,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,SL Malinga,58,2,7.4,47,0,34,16,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,SL Malinga,62,2,7.5,47,0,34,20,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,SL Malinga,63,2,8,48,0,34,21,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,Harbhajan Singh,64,2,8.1,49,0,34,22,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,Harbhajan Singh,65,2,8.2,50,0,35,22,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,Harbhajan Singh,66,2,8.3,50,0,35,23,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,Harbhajan Singh,67,2,8.4,51,0,36,23,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,Harbhajan Singh,67,2,8.5,51,0,36,23,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,Harbhajan Singh,68,2,9,52,0,36,24,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,KA Pollard,70,2,9.1,50,0,36,26,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,KA Pollard,71,2,9.2,50,0,36,27,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,KA Pollard,75,2,9.3,54,0,40,27,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,KA Pollard,75,2,9.4,54,0,40,27,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,KA Pollard,79,2,9.5,57,0,44,27,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,KA Pollard,80,2,10,54,0,45,27,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,Harbhajan Singh,81,2,10.1,55,0,46,27,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,Harbhajan Singh,85,2,10.2,55,0,46,31,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,Harbhajan Singh,86,2,10.3,52,0,46,32,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,Harbhajan Singh,86,2,10.4,51,0,46,32,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,Harbhajan Singh,86,2,10.5,51,0,46,32,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,Harbhajan Singh,87,2,11,51,0,47,32,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,SL Malinga,88,2,11.1,51,0,48,32,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,SL Malinga,88,2,11.2,50,0,48,32,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,SL Malinga,88,2,11.3,49,0,48,32,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,SL Malinga,89,2,11.4,50,0,48,33,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,SL Malinga,89,2,11.5,46,0,48,33,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,SL Malinga,90,2,12,46,0,49,33,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,GJ Maxwell,90,2,12.1,46,0,49,33,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,GJ Maxwell,91,2,12.2,41,0,50,33,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,GJ Maxwell,97,2,12.3,43,0,50,39,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,GJ Maxwell,103,2,12.4,45,0,50,45,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,GJ Maxwell,107,2,12.5,45,0,50,49,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,GJ Maxwell,108,2,13,45,0,50,50,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,R Dhawan,110,2,13.1,46,0,52,50,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,R Dhawan,111,2,13.2,46,0,53,50,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,R Dhawan,112,2,13.3,46,0,53,50,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,R Dhawan,113,2,13.4,46,0,53,50,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,R Dhawan,117,2,13.5,50,0,54,53,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,R Dhawan,119,2,14,51,0,56,53,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,NM Coulter-Nile,120,2,14.1,50,0,56,54,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,NM Coulter-Nile,121,2,14.2,50,0,57,54,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,NM Coulter-Nile,122,2,14.3,47,0,57,55,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,NM Coulter-Nile,123,2,14.4,48,0,58,55,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,NM Coulter-Nile,127,2,14.5,48,0,59,58,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,NM Coulter-Nile,131,2,15,51,0,63,58,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,R Dhawan,132,2,15,51,0,63,58,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,R Dhawan,136,2,15.1,51,0,63,62,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,R Dhawan,137,2,15.2,51,0,63,63,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,R Dhawan,137,2,15.3,51,0,63,63,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,R Dhawan,139,2,15.4,53,0,65,63,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,R Dhawan,141,2,15.5,54,0,67,63,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,R Dhawan,142,2,15.5,54,0,67,63,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,R Dhawan,143,2,16,55,0,68,63,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,Harbhajan Singh,147,2,16.1,59,0,72,63,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,Harbhajan Singh,153,2,16.2,64,0,78,63,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,Harbhajan Singh,154,2,16.3,65,0,79,63,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,SE Marsh,Harbhajan Singh,154,3,16.4,64,1,79,63,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,DA Miller,Harbhajan Singh,155,3,16.5,65,1,79,1,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,Harbhajan Singh,156,3,17,65,1,80,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,SL Malinga,156,3,17.1,59,1,80,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Azhar Mahmood,SL Malinga,156,4,17.2,53,2,80,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,M Vohra,SL Malinga,160,4,17.3,53,2,4,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,M Vohra,SL Malinga,160,4,17.4,52,2,4,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,M Vohra,SL Malinga,160,4,17.5,50,2,4,1,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,M Vohra,SL Malinga,164,4,18,53,2,8,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,DA Miller,KA Pollard,164,4,18.1,52,2,8,1,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,DA Miller,KA Pollard,168,4,18.2,55,2,8,5,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,DA Miller,KA Pollard,169,4,18.3,52,2,8,6,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,M Vohra,KA Pollard,173,4,18.4,54,2,12,6,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,M Vohra,KA Pollard,174,4,18.5,54,2,13,6,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,DA Miller,KA Pollard,174,5,19,53,3,13,6,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Gurkeerat Singh,SL Malinga,174,6,19.1,52,4,13,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,PP Chawla,SL Malinga,175,6,19.2,52,4,13,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,M Vohra,SL Malinga,181,6,19.3,54,4,19,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,M Vohra,SL Malinga,182,6,19.4,51,4,20,0,183
-382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,PP Chawla,SL Malinga,183,7,19.5,51,5,20,1,183
 382,18-05-2013,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,P Kumar,SL Malinga,183,8,20,47,6,20,0,183
 383,19-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Delhi Daredevils,RV Uthappa,IK Pathan,0,0,0.1,0,0,0,0,172
 383,19-05-2013,Subrata Roy Sahara Stadium,Pune Warriors,Delhi Daredevils,RV Uthappa,IK Pathan,2,0,0.2,2,0,2,0,172
