@@ -1,7 +1,4 @@
 # CricketScore: First Innings Score Prediction
-Introduction:
-
-
 CricketScore First Innings Score Prediction is a machine learning project that focuses on predicting the first innings scores in cricket matches for various formats, including IPL (Indian Premier League), ODI (One Day International), and T20 (Twenty20) matches. By leveraging historical match data from these formats, the project aims to provide accurate predictions of the scores, enabling cricket enthusiasts, analysts, and sports professionals to gain valuable insights into team performances.
 
 Dataset:
